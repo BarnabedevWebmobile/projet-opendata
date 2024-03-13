@@ -1,4 +1,7 @@
 <?php
+require("baseView.php");
+?>
+<?php
  
 $dataPoints = array(
 	array("x"=> 10, "y"=> 41),
