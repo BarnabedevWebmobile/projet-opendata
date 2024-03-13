@@ -14,7 +14,7 @@
 
             $data = new DataManager();
             $takedata = $data->graphdata();
-            
-            require 'view/graphaltView.php';
+
+            require 'view/graphView.php';
         }
     }

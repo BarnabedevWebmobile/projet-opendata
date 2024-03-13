@@ -11,9 +11,6 @@
                 $showdata = $datas->getthedata();
             break;
             case 'graph':
-                require 'view/graphView.php';
-            break;
-            case 'alt':
                 $graph = new DataController();
                 $showdata = $graph->makegraph();
             break;
