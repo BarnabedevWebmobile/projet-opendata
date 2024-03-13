@@ -1,0 +1,17 @@
+table tr{
+    display: flex;
+    justify-content: space-around;
+    border: solid 1px;
+}
+table{
+    width: 1400px;
+}
+table th{
+    min-width: 300px;
+}
+table td{
+    text-align: center;
+}
+.container{
+    margin: 1em auto; max-width: 1500px; width: 95%; font: 18px/1.5 sans-serif; 
+}
