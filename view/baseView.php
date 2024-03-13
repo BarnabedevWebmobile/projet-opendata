@@ -10,7 +10,9 @@
 
 <h1>projet opendata</h1>
     <section class='container'>
+
         <?= $content ?>
+        
     </section>
     
 

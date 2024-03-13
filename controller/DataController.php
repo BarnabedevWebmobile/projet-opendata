@@ -8,7 +8,13 @@
             $data = new DataManager();
             $takedata = $data->getdata();
 
-            require'view/dataView.php';
+            require 'view/dataView.php';
         }
+        function makegraph(){
 
+            $data = new DataManager();
+            $takedata = $data->graphdata();
+            
+            require 'view/graphaltView.php';
+        }
     }
