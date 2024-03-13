@@ -27,7 +27,7 @@ Ce diagramme compoertera différents filtres possibles notamment potentiellement
 
 # Prérequis :
 
-- Charger le default.css dans le dossier "public".
+- Charger le style.css dans le dossier "public".
 
 # Pour commencer :
 
